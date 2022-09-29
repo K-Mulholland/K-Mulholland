@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @K-Mulholland
-- 👀 I’m interested in ...French horn performance, triathlons, and data science.
+- 👀 I’m interested in ...using data science to optimize music, education, and family experiences.
 - 🌱 I’m currently learning ...VBA, Python, Pandas, JupyterNotebook, and MatPlotLib.
-- 💞️ I’m looking to collaborate on ...science and music data analytics projects.
+- 💞️ I’m looking to collaborate on ...music, education, and vacation data analytics projects.
 - 📫 How to reach me ...mulhollandkristina@gmail.com
 
 <!---
