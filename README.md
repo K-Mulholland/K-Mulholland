@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kristina Mulholland, data analyst, musician, and educator
+- 👋 Hi, I’m Kristina Mulholland, data analyst, musician, and educator.
 - 
 - 👀 I’m interested in ...using data to solve problems, help people, and contribute to team success.
 - 
