@@ -2,7 +2,7 @@
 - 
 - 👀 I’m interested in ...using data to solve problems, help people, and contribute to team success.
 - 
-- 🌱 I’m currently working on ... a presentation for EdX Demo Day Spring 2023: Inside Out, An Analytical Exploration of Walt Disney World Rides 
+- 🌱 I’m currently working on ... a project based on a Kaggle dataset that explores the relationship between music and mental health. 
 - 🌱 Technical skills I possess: VBA, Python, Pandas, JupyterNotebook, MatPlotLib, JavaScript, CSS, SQL, PG4Admin, Bootstrap, Beautiful Soup, JSON, APIs, MongoDB, Leaflet, Tableau and Machine Learning.
 -
 - 💞️ I’m looking to collaborate on ...music, education, vacation, and health sciences data analytics projects.
